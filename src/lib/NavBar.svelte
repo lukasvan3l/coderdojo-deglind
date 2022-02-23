@@ -1,7 +1,7 @@
-<nav class="navbar" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a class="navbar-item" href="/">
-      <img alt="CoderDojo logo" src="/coderdojo-logo.png">
+<div class="content has-text-centered">
+  <p>
+    <a href="/">
+      <img alt="CoderDojo logo" src="/coderdojo-logo-big.png">
     </a>
-  </div>
-</nav>
+  </p>
+</div>
