@@ -9,7 +9,7 @@
 </section>
 
 <section class="content handwritten">
-  <p>Wil je weten hoe je zelf een game kan bouwen? Of kun je het al maar wil je het samen met anderen doen? Ik help je graag op weg. Tijdens deze vakantie doen we een introductie in programmeren, hopelijk is er daarna genoeg animo om verder te gaan! Wie weet heb jij over een tijdje je eigen game, website, of app gemaakt.</p>
+  <p>Wil je weten hoe je zelf een game kan bouwen? Of je eigen game controller? Ik help je op weg. We gaan samen mooie dingen bouwen!</p>
   <p>Tot vrijdag!</p>
   <p>Lukas</p>
 </section>
@@ -32,9 +32,9 @@
         <p>Wat gaan we doen?</p>
       </div>
       <div class="message-body content">
-        <p>We gaan aan de slag met <a href="https://scratch.mit.edu/">Scratch</a>. Nog even geen ingewikkelde codes intypen maar blokken slepen om een spel te maken.</p>
+        <p>Een game bouwen! Met <a href="https://scratch.mit.edu/">Scratch</a>. Nog even geen ingewikkelde codes intypen maar blokken slepen om een spel te maken.</p>
         <img alt="Scratch" src="/scratch.png" />
-        <p>Ken je Scratch al, en wil je wat anders? Dan pakken we een MakeyMakey en maken we een eigen controller voor onze Scratch game!</p>
+        <p>Ken je Scratch al, en wil je wat nieuws proberen? Dan pakken we een MakeyMakey en maken we een eigen controller voor onze Scratch game!</p>
         <img alt="MakeyMakey" src="/banana.webp" />
       </div>
     </article>
@@ -42,7 +42,8 @@
 </div>
 
 <section class="content">
-  <p>Hier een voorproefje:</p>
+  <h1 class="title">Over Lukas</h1>
+  <p>Hoi, ik ben Lukas! Ik woon sinds anderhalf jaar in De Glind. Ik werk bij <a href="https://www.q42.nl">Q42</a> waar ik websites en games maak. Lesgeven vind ik ook gaaf, dus dat doe ik ook af en toe. Hieronder een begeleidend filmpje uit een lespakket waar ik aan heb meegewerkt. Je leert mij, en Q42, een beetje kennen.</p>
 </section>
 
 <iframe 
@@ -68,7 +69,7 @@
 
   .handwritten {
     font-family: 'Caveat', cursive;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 
   .hero-body {
