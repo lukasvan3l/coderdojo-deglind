@@ -2,14 +2,16 @@
 <section class="hero">
   <div class="hero-body block">
     <h1 class="title">
-      Zelf een game bouwen?!
+      Programmeren geeft je superpowers!
     </h1>
-    <p class="subtitle">Programmeren geeft je superpowers!</p>
+    <!-- <p class="subtitle">Programmeren geeft je superpowers!</p> -->
   </div>
 </section>
 
 <section class="content handwritten">
-  <p>Wil je weten hoe je zelf een game kan bouwen? Of je eigen game controller? Ik help je op weg. We gaan samen mooie dingen bouwen!</p>
+  <p>Met programmeerskills kun je een beetje magie aan de wereld toevoegen. 
+    Bedenk een toffe game, website of handige app, en ga het bouwen!
+    Ik help je graag op weg, welke kant je ook op wilt gaan.</p>
   <p>Tot vrijdag!</p>
   <p>Lukas</p>
 </section>
@@ -20,9 +22,28 @@
       <div class="message-header">
         <p>Waar en wanneer?</p>
       </div>
-      <div class="message-body">
-        <p>Vrijdag 4 maart om 11:00, en om 12:00</p>
+      <div class="message-body content">
+        <p>Elke vrijdag van 16:00 - 17:00.</p>
         <p>De Soos in de Glindster</p>
+      </div>
+    </article>
+
+    <article class="message is-primary">
+      <div class="message-header">
+        <p>Wat moet ik meenemen?</p>
+      </div>
+      <div class="message-body content">
+        <p>Goede ideëen, en verder niks!</p>
+        <p>Er staan laptops klaar om mee aan de slag te gaan, gesponsored door <a href="https://www.q42.nl">Q42</a>.</p>
+      </div>
+    </article>
+
+    <article class="message is-primary">
+      <div class="message-header">
+        <p>Hoe meld ik me aan?</p>
+      </div>
+      <div class="message-body content">
+        <p>Stuur mij een mailtje: <a href="mailto:lukas@3l.nl">lukas@3l.nl</a>.</p>
       </div>
     </article>
   </div>
@@ -36,6 +57,7 @@
         <img alt="Scratch" src="/scratch.png" />
         <p>Ken je Scratch al, en wil je wat nieuws proberen? Dan pakken we een MakeyMakey en maken we een eigen controller voor onze Scratch game!</p>
         <img alt="MakeyMakey" src="/banana.webp" />
+        <p>Of misschien maak je liever een eigen website? Dat kan ook, dan pakken we HTML en CSS van de plank. Alles mag :)</p>
       </div>
     </article>
   </div>
@@ -57,7 +79,7 @@
 <section class="content">
   <h1 class="title">Over CoderDojo</h1>
   <p class="subtitle">Gratis leren programmeren voor kinderen in heel Nederland</p>
-  <p>CoderDojo is een stichting die mensen ondersteunt in het geven van programmeerlessen.<br />Wat ze zelf zeggen:</p>
+  <p>CoderDojo is een stichting die mensen ondersteunt in het geven van programmeerlessen. Hier haal ik veel inspiratie vandaan. Hoe ze zelf een CoderDojo verwoorden:</p>
   <p class="quote">Bij een CoderDojo leren jonge mensen, tussen de 5 en 17 jaar, om te programmeren, websites bouwen, apps ontwikkelen, programma's te maken, games te maken en meer. Dojo's worden opgezet en georganiseerd door vrijwilligers. Naast het leren programmeren, ontmoeten deelnemers ook anderen like-minded mensen, delen deelnemers waar ze aan aan het werken zijn en maken ze nieuwe dingen. CoderDojo maakt development en leren programmeren een leuke, sociale en kick ass ervaring. CoderDojo legt ook veel nadruk op open source en gratis software en heeft wereldwijd een breed netwerk aan vrijwilligers. CoderDojo heeft slecht één regel: "Boven Alles: Wees Cool!", pesten, liegen en mensen hun tijd verdoen is niet cool. Om aan een Dojo mee te doen kun je er een bij jou in de buurt zoeken of zelf een opstarten.</p>
   <p>Voor meer informatie, zie <a href="https://coderdojo.nl/">CoderDojo.nl</a>.</p>
 </section>

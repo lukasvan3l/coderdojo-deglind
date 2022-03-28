@@ -1,7 +1,7 @@
 <div class="content has-text-centered">
   <p>
-    <a href="/">
+    <!-- <a href="/">
       <img alt="CoderDojo logo" src="/coderdojo-logo-big.png">
-    </a>
+    </a> -->
   </p>
 </div>
