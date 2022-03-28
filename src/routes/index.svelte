@@ -1,3 +1,12 @@
+<script setup lang="ts">
+import { onMount } from "svelte";
+import { logEvent } from "firebase/analytics";
+
+onMount(async () => {
+  const {analytics} = await import('../lib/firebase');
+  logEvent(analytics, 'index');
+})
+</script>
 
 <section class="hero">
   <div class="hero-body block">
