@@ -62,7 +62,7 @@ onMount(async () => {
         <p>Wat gaan we doen?</p>
       </div>
       <div class="message-body content">
-        <p>Een game bouwen! Met <a href="https://scratch.mit.edu/">Scratch</a>. Nog even geen ingewikkelde codes intypen maar blokken slepen om een spel te maken. Je kunt al wat <a href="/projecten">voorbeelden bekijken</a>.</p>
+        <p>Een game bouwen! Met <a href="https://scratch.mit.edu/">Scratch</a>. Nog even geen ingewikkelde codes intypen maar blokken slepen om een spel te maken. Je kunt al wat <a href="/projecten.html">voorbeelden bekijken</a>.</p>
         <img alt="Scratch" src="/scratch.png" />
         <p>Ken je Scratch al, en wil je wat nieuws proberen? Dan pakken we een MakeyMakey en maken we een eigen controller voor onze Scratch game!</p>
         <img alt="MakeyMakey" src="/banana.webp" />
