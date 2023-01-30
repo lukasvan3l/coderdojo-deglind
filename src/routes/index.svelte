@@ -32,7 +32,7 @@ onMount(async () => {
         <p>Waar en wanneer?</p>
       </div>
       <div class="message-body content">
-        <p>Elke vrijdag van 16:00 - 17:00.</p>
+        <p>Elke woensdag van 16:15 - 17:15.</p>
         <p>De Soos in de Glindster</p>
       </div>
     </article>
