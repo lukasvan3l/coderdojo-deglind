@@ -4,6 +4,13 @@
 
   const data = [
     {
+      date: '2023',
+      projects: [
+        { id: 764729662, explanation: 'Broodjes clicker. Klik op het broodje om broodjes te krijgen. Je kan dingen kopen door erop te klikken. Die geven je sneller broodjes. Probeer de diamant te verdienen om XP te krijgen om naar het volgende level te gaan.' },
+        { iframe: '/cyoa', explanation: 'Create Your Own Adventure - een web-based avontuur waarbij je het verhaal kan beinvloeden door op keuzes in de tekst te klikken (in aanbouw).' },
+      ]
+    },
+    {
       date: 'Speciaal voor Frans!',
       projects: [
         { id: 697653418, explanation: 'Voor het 25 jarig jubileum van Frans!' },
@@ -60,7 +67,7 @@
 <div class="tabs">
   <ul>
     {#each data as d}
-    <li class="{d.date === expandedDate ? 'is-active' : ''}"><a on:click={() => expand(d.date)}>{d.date}</a></li>
+    <li class="{d.date === expandedDate ? 'is-active' : ''}"><a href="#{d.date}" on:click|preventDefault={() => expand(d.date)}>{d.date}</a></li>
     {/each}
   </ul>
 </div>
@@ -71,9 +78,13 @@
   <h2>{d.date}</h2>
   <div>
     {#each d.projects as p}
-    <iframe src="https://scratch.mit.edu/projects/{p.id}/embed" title="{p.id.toString()}" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-    <p>{p.explanation}</p>
-    <hr />
+      {#if p.id}
+        <iframe src="https://scratch.mit.edu/projects/{p.id}/embed" title="{p.id.toString()}" allowtransparency="{true}" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+      {:else}
+        <iframe src="{p.iframe}" title="{p.iframe}" allowtransparency="{true}" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+      {/if}
+      <p>{p.explanation}</p>
+      <hr />
     {/each}
   </div>
 </section>
