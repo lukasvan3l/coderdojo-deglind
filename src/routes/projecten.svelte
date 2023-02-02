@@ -8,6 +8,9 @@
       projects: [
         { id: 764729662, explanation: 'Broodjes clicker. Klik op het broodje om broodjes te krijgen. Je kan dingen kopen door erop te klikken. Die geven je sneller broodjes. Probeer de diamant te verdienen om XP te krijgen om naar het volgende level te gaan.' },
         { iframe: '/cyoa', explanation: 'Create Your Own Adventure - een web-based avontuur waarbij je het verhaal kan beinvloeden door op keuzes in de tekst te klikken (in aanbouw).' },
+        { id: 731932503, explanation: 'Kies een aantal spelers, druk op spatiebalk om te beginnen! Let op: Liverpool wint ALTIJD' },
+        { id: 797035687, explanation: 'Druk op pijltje naar boven en beneden om te verplaatsen, met spatiebalk maak je een salto.' },
+        { id: 797037473, explanation: 'Voor twee spelers: 1 speler gebruikt de links/rechts pijltjes om te keepen. De andere speler richt met de muis waar de bal komt, en schiet met spatiebalk. Tip: zet je geluid niet al te hard.' },
       ]
     },
     {
