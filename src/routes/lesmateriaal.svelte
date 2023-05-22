@@ -34,22 +34,22 @@
 <hr />
 
 <section class="content">
+  <h2>Spring spel</h2>
+  <p></p>
+  <p>Je leert veel: bewegen, schieten, raken, botsen... Speel hier een voorbeeld:</p>
+  <img src="/springer.png" alt="spring spel" />
+  <p><a class="button is-link" href="https://www.makersbase.nl/projecten-1/een-spring-spel-maken-in-scratch">Uitleg pagina</a></p>
+</section>
+
+<hr />
+
+<section class="content">
   <h2>Asteroids</h2>
   <p>Een favoriet van mij: meteorieten neerschieten, met een twist!</p>
   <p>Je leert veel: bewegen, schieten, raken, botsen... Speel hier een voorbeeld:</p>
   <iframe src="https://scratch.mit.edu/projects/849847481/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
   <p><a class="button is-link" href="https://www.youtube.com/playlist?list=PLy4zsTUHwGJKFO9kik6tBxkZnmujKIsWB">Youtube les (Engels)</a></p>
   <p><a class="button is-link" href="https://scratch.mit.edu/projects/548866331/">Starter project</a></p>
-</section>
-
-<hr />
-
-<section class="content">
-  <h2>Spring spel</h2>
-  <p></p>
-  <p>Je leert veel: bewegen, schieten, raken, botsen... Speel hier een voorbeeld:</p>
-  <img src="/springer.png" alt="spring spel" />
-  <p><a class="button is-link" href="https://www.makersbase.nl/projecten-1/een-spring-spel-maken-in-scratch">Uitleg pagina</a></p>
 </section>
 
 <hr />
