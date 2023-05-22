@@ -6,6 +6,7 @@
     {
       date: '2023',
       projects: [
+        { id: 849847481, explanation: 'De Gijs schieter!!' },
         { id: 764729662, explanation: 'Broodjes clicker. Klik op het broodje om broodjes te krijgen. Je kan dingen kopen door erop te klikken. Die geven je sneller broodjes. Probeer de diamant te verdienen om XP te krijgen om naar het volgende level te gaan.' },
         { iframe: '/cyoa', explanation: 'Create Your Own Adventure - een web-based avontuur waarbij je het verhaal kan beinvloeden door op keuzes in de tekst te klikken (in aanbouw).' },
         { id: 731932503, explanation: 'Kies een aantal spelers, druk op spatiebalk om te beginnen! Let op: Liverpool wint ALTIJD' },
@@ -57,7 +58,7 @@
 <section class="hero">
   <div class="hero-body block">
     <h1 class="title">
-      Programmeren geeft je superpowers!
+      Dit hebben we gebouwd 💪
     </h1>
     <!-- <p class="subtitle">Programmeren geeft je superpowers!</p> -->
   </div>

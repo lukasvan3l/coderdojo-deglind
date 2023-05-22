@@ -32,7 +32,7 @@ onMount(async () => {
         <p>Waar en wanneer?</p>
       </div>
       <div class="message-body content">
-        <p>Elke woensdag van 16:15 - 17:15.</p>
+        <p>Elke maandag van 16:00 - 17:00.</p>
         <p>De Soos in de Glindster</p>
       </div>
     </article>
@@ -52,7 +52,7 @@ onMount(async () => {
         <p>Hoe meld ik me aan?</p>
       </div>
       <div class="message-body content">
-        <p>Stuur mij een mailtje: <a href="mailto:lukas@3l.nl">lukas@3l.nl</a>.</p>
+        <p>Stuur mij een mailtje: <a href="mailto:lukas@q42.nl">lukas@q42.nl</a>.</p>
       </div>
     </article>
   </div>
@@ -62,10 +62,13 @@ onMount(async () => {
         <p>Wat gaan we doen?</p>
       </div>
       <div class="message-body content">
-        <p>Een game bouwen! Met <a href="https://scratch.mit.edu/">Scratch</a>. Nog even geen ingewikkelde codes intypen maar blokken slepen om een spel te maken. Je kunt al wat <a href="/projecten.html">voorbeelden bekijken</a>.</p>
         <img alt="Scratch" src="/scratch.png" />
-        <p>Ken je Scratch al, en wil je wat nieuws proberen? Dan pakken we een MakeyMakey en maken we een eigen controller voor onze Scratch game!</p>
-        <img alt="MakeyMakey" src="/banana.webp" />
+        <p>Een game bouwen! Met <a href="https://scratch.mit.edu/">Scratch</a>. Nog even geen ingewikkelde codes 
+          intypen maar blokken slepen om een spel te maken.</p>
+          <p class="has-text-centered"><a href="/projecten" class="button is-link">Bekijk voorbeelden</a></p>
+          <p class="has-text-centered"><a href="/lesmateriaal" class="button is-link">Bekijk lesmateriaal</a></p>
+        <!-- <p>Ken je Scratch al, en wil je wat nieuws proberen? Dan pakken we een MakeyMakey en maken we een eigen controller voor onze Scratch game!</p>
+        <img alt="MakeyMakey" src="/banana.webp" /> -->
         <p>Of misschien maak je liever een eigen website? Dat kan ook, dan pakken we HTML en CSS van de plank. Alles mag :)</p>
       </div>
     </article>
